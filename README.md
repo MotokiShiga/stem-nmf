@@ -13,6 +13,7 @@ Motoki Shiga, Kazuyoshi Tatsumi, Shunsuke Muto, Koji Tsuda, Yuta Yamamoto, Toshi
   *Ultramicroscopy*, Vol.170, p.43-59, 2016.  
 [http://dx.doi.org/10.1016/j.ultramic.2016.08.006](http://dx.doi.org/10.1016/j.ultramic.2016.08.006)
 
-## Copyright Notice
 
-Copyright (C) 2016, Motoki Shiga All rights reserved.
+## License
+
+MIT License (see `LICENSE` file).
