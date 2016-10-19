@@ -2,8 +2,6 @@
 
 This repository provides MATLAB codes of our proposed methods in [1].
 
-Python codes will be avalable soon.
-
 
 ## Reference
 
