@@ -2,6 +2,16 @@
 
 This repository provides MATLAB codes of our proposed methods in [1].
 
+In MATLAB, you can run a demo script for **NMF-SO** (Nonnegative Matrix Factorization with Soft Orthogonality constraint):
+
+    demo_nmf_so
+
+and **NMF-ARD-SO** (Nonnegative Matrix Factorization with Automatic Relevance Determination Soft Orthogonality constraint):
+
+    demo_nmf_ard_so
+    
+**SO** is for resolving spatial overlaps among chemical components and **ARD** is for optimizing the number of chemical components.
+
 
 ## Reference
 
