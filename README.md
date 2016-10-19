@@ -6,7 +6,7 @@ In MATLAB, you can run a demo script for **NMF-SO** (Nonnegative Matrix Factoriz
 
     demo_nmf_so
 
-and **NMF-ARD-SO** (Nonnegative Matrix Factorization with Automatic Relevance Determination Soft Orthogonality constraint):
+and **NMF-ARD-SO** (Nonnegative Matrix Factorization with Automatic Relevance Determination and Soft Orthogonality constraint):
 
     demo_nmf_ard_so
     
