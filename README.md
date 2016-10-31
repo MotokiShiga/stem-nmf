@@ -1,6 +1,6 @@
 ## Nonnegative Matrix Factorization for STEM-EELS/EDX Analysis
 
-This repository provides MATLAB codes of our proposed methods in [1].
+This repository provides MATLAB and Python codes of our proposed methods in [1].
 
 In MATLAB, you can run a demo script for **NMF-SO** (Nonnegative Matrix Factorization with Soft Orthogonality constraint):
 
@@ -11,6 +11,8 @@ and **NMF-ARD-SO** (Nonnegative Matrix Factorization with Automatic Relevance De
     demo_nmf_ard_so
     
 **SO** is for resolving spatial overlaps among chemical components and **ARD** is for optimizing the number of chemical components.
+
+Our python code (supported on Python 3.5.1+) are also provided. See jupyter notebook **demo_NMF_SO.ipynb** or **demo_NMF_ARD_SO.ipynb**. 
 
 
 ## Reference
