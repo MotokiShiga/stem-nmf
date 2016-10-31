@@ -12,7 +12,7 @@ and **NMF-ARD-SO** (Nonnegative Matrix Factorization with Automatic Relevance De
     
 **SO** is for resolving spatial overlaps among chemical components and **ARD** is for optimizing the number of chemical components.
 
-Our python code (supported on Python 3.5.1+) are also provided. See jupyter notebook **demo_NMF_SO.ipynb** or **demo_NMF_ARD_SO.ipynb**. 
+Our python codes (supported on Python 3.5.1+) are also provided. See jupyter notebook **demo_NMF_SO.ipynb** or **demo_NMF_ARD_SO.ipynb**. 
 
 
 ## Reference
