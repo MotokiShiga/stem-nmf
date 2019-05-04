@@ -1,5 +1,7 @@
 ## Nonnegative Matrix Factorization for STEM-EELS/EDX Analysis
 
+<b> Note: This repository is not maintained anymore. Please check the new repository of python package [MALSpy](https://github.com/MotokiShiga/malspy).</b>
+
 This repository provides MATLAB and Python codes of our proposed methods in [1].
 
 In MATLAB, you can run a demo script for **NMF-SO** (Nonnegative Matrix Factorization with Soft Orthogonality constraint):
